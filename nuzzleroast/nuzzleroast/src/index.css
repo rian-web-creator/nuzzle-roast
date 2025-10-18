@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: #FAF7F2; /* pale white */
+  --brown: #6B3E26;
+  --mustard: #E6B044;
+  --muted: #C9B8AA;
+}
+
+body { background-color: var(--bg); }
